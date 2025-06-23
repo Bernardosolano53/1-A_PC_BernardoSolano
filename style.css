@@ -5,10 +5,13 @@ body {
 
 header{ 
 font-size: 50px;
+font-family:"Rubik Puddles", system-ui;
 }
 h1{
     font-size: 30px;
+  font-family: "Rubik Doodle Shadow", system-ui;
 }
 p{
     font-size: 20px;
+   font-family: "Indie Flower", cursive;
 }
