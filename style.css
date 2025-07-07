@@ -6,7 +6,7 @@ body {
 header{ 
 font-size: 50px;
 font-family:  "Rubik Puddles", system-ui;
-border: 20px rgb(0, 119, 255, 0.575);
+border-bottom: 50px rgba(0, 0, 181, 0.564));
 margin: 20px;
 padding: 20px;
 }
